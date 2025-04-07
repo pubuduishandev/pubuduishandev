@@ -26,17 +26,6 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pubuduishandigital&theme=dark&show_icons=true&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pubuduishandigital&theme=dark&hide_border=false" />
-  <br><br>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pubuduishandigital&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-</p>
-
----
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.facebook.com/pubuduishandigital"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50" /></a>
@@ -75,13 +64,4 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm.svg" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm.svg" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm.svg" width="50" height="50"/>
-</p>
-
----
-
-<h3 align="center">Support:</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/pubuduishandigital">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
-  </a>
 </p>
