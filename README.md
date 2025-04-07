@@ -1,76 +1,87 @@
-<h1 align="center">Hi 👋, I'm Pubudu Ishan Wickrama Arachchi</h1>
-<h3 align="center">Turning Visions into Digital Realities</h3>
-
-<p align="center">🚀 A passionate full stack developer and aspiring tech entrepreneur from Sri Lanka.</p>
-
----
-
-<h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
-  <a href="https://www.facebook.com/pubuduishandigital"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" /></a>
-  <a href="https://lk.linkedin.com/in/pubuduishandigital"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/pubuduishandigital"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" height="40" width="40" /></a>
-  <a href="https://www.threads.net/@pubuduishandigital"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="40" width="40" /></a>
-  <a href="https://x.com/pubuduishandigi"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" height="40" width="40" /></a>
-  <a href="https://www.reddit.com/user/pubuduishandigital"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" height="40" width="40" /></a>
-  <a href="https://www.pinterest.com/pubuduishandigital"><img src="https://cdn-icons-png.flaticon.com/512/174/174863.png" height="40" width="40" /></a>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+</p>
+<h1 align="center">Hi 👋, I'm Pubudu Ishan Wickrama Arachchi</h1>
+<h3 align="center">Associate Software Engineer | Undergraduate at University of Colombo</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pubuduishandigital&label=Profile%20views&color=0e75b6&style=flat" alt="pubuduishandigital" />
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="left">
+      - 🌱 I’m currently focused on **Mobile & Web App Development**<br>
+      - 🧑‍🎓 Undergraduate at **University of Colombo - Department of ICT**<br>
+      - 💼 Associate Software Engineer at **LAUGFS Holdings Limited - Group IT**<br>
+      - 💬 Ask me about **Flutter, VueJs, NodeJS, APIs**<br>
+      - 📫 Reach me at **pubuduishandigital@gmail.com**<br>
+      - ⚡ Fun fact: I love creating clean, fast, and functional digital solutions!
+    </td>
+    <td width="50%" align="center">
+      <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pubuduishandigital&theme=dark&show_icons=true&count_private=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pubuduishandigital&theme=dark&hide_border=false" />
+  <br><br>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pubuduishandigital&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
 </p>
 
 ---
 
-### 🎓 Education
-- **BSc in Information and Communication Technology**  
-  University of Colombo, Faculty of Technology  
-- **Trainee - Full Stack Developer**  
-  DP Foundation & University of Moratuwa (CODL)
-
----
-
-### 💼 Work Experience
-- **Associate Software Engineer**  
-  **LAUGFS HOLDINGS Limited** | Jan 2025 - Present  
-  - Developed internal tools and full-stack web applications.
-  - Contributed to digital transformation initiatives.
-
-- **Intern Software Engineer**  
-  LAUGFS HOLDINGS Limited | 2024  
-  - Completed a major internship project involving web APIs and system integrations.
-
----
-
-### 🛠 Skills
-
-#### Languages & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,flutter,firebase,html,css,sass,tailwind,java,python,mysql,mongodb,git,github,vscode" />
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.facebook.com/pubuduishandigital"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50" /></a>
+  <a href="https://lk.linkedin.com/in/pubuduishandigital"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" /></a>
+  <a href="https://www.instagram.com/pubuduishandigital"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" height="50" width="50" /></a>
+  <a href="https://www.threads.net/@pubuduishandigital"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="50" width="50" /></a>
+  <a href="https://x.com/pubuduishandigi"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" height="50" width="50" /></a>
+  <a href="https://www.reddit.com/user/pubuduishandigital"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" height="50" width="50" /></a>
+  <a href="https://www.pinterest.com/pubuduishandigital"><img src="https://cdn-icons-png.flaticon.com/512/174/174863.png" height="50" width="50" /></a>
 </p>
 
-#### Tools & Platforms
-- Firebase, GitHub Actions, REST APIs, Docker (basic)
-- VS Code, Postman, Figma, Canva
+---
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Light.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Go-Light.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHub-Light.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm.svg" width="50" height="50"/>
+</p>
 
 ---
 
-### 📌 Projects Summary
-
-- **👕 3D Digital Fitting System**  
-  A web-based solution to visualize customers in selected outfits using 3D rendering.
-
-- **📊 Portfolio CMS System**  
-  A React + Firebase system that displays portfolio data fetched dynamically from a Flutter-powered admin app.
-
-- **🧠 Learning Modalities Research Tool**  
-  Machine learning project analyzing learning styles (VARK) to recommend personalized educational content.
-
-- **🎓 Educational Qualification Verifier**  
-  API-driven web tool to validate and manage academic credentials securely and digitally.
-
----
-
-### 🚀 Future Goals
-- Launching my own software company: **FlickBox Technologies (Pvt) Ltd.**
-- Building scalable SaaS solutions that help digital creators and local businesses.
-
----
-
-<p align="center">✨ Thank you for visiting! Let’s build something amazing together.</p>
+<h3 align="center">Support:</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/pubuduishandigital">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
+  </a>
+</p>
