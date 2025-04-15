@@ -40,11 +40,16 @@
 ---
 
 <h3 align="center">GitHub Status</h3>
-<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=pubuduishandev&show_icons=true&locale=en" alt="pubuduishandev" />
-&nbsp;&nbsp;
+</td>
+<td width="50%" align="right">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pubuduishandev" alt="pubuduishandev" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
