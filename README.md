@@ -74,8 +74,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm.svg" width="50" height="50"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pubuduishandev&show_icons=true&locale=en&layout=compact" alt="pubuduishandev" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pubuduishandev&show_icons=true&locale=en&layout=compact" alt="pubuduishandev" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pubuduishandev&show_icons=true&locale=en" alt="pubuduishandev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pubuduishandev&" alt="pubuduishandev" /></p>
