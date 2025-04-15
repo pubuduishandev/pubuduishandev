@@ -9,7 +9,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pubuduishandev&label=Profile%20views&color=0e75b6&style=flat" alt="pubuduishandev" /> <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pubuduishandev" alt="pubuduishandev" /></a> <br>
 </p>
 
 <table align="center">
@@ -27,6 +26,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pubuduishandev" alt="pubuduishandev" /></a> <br>
+</p>
 
 ---
 
