@@ -12,7 +12,7 @@
 
 ---
 
-<table align="center" border="0">
+<table align="center">
   <tr>
     <td width="50%" align="left">
       - 🌱 I’m currently focused on Mobile & Web App Development <br>
@@ -75,9 +75,5 @@
 <a href="https://discord.gg/pubuduishandigital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pubuduishandigital" height="30" width="40" /></a>
 </p>
 
-
-
-
-
-
-
+<p align="center">All Rights Reserved</p>
+<p align="center">Pubudu Ishan Wickrama Arachchi</p>
