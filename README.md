@@ -9,7 +9,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pubuduishandev&label=Profile%20views&color=0e75b6&style=flat" alt="pubuduishandev" /> <br>
 </p>
+
 ---
+
 <table align="center">
   <tr>
     <td width="50%" align="left">
@@ -25,11 +27,15 @@
     </td>
   </tr>
 </table>
+
 ---
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pubuduishandev" alt="pubuduishandev" /></a> <br>
 </p>
+
 ---
+
 <h3 align="center">GitHub Status</h3>
 <table align="center" border="0">
   <tr>
@@ -41,7 +47,9 @@
     </td>
   </tr>
 </table>
+
 ---
+
 <h3 align="left">Languages and Tools</h3>
 <table align="center">
   <tr>
@@ -197,7 +205,9 @@
     </td>
   </tr>
 </table>
+
 ---
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://fb.com/pubuduishandigital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pubuduishandigital" height="30" width="40" /></a>
