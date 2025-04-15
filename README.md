@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 </p>
-<h1 align="center">Hi 👋, I'm Pubudu Ishan Wickrama Arachchi</h1>
+<h1 align="center">Hello 👋, <br> I'm Pubudu Ishan Wickrama Arachchi</h1>
 <h3 align="center">Associate Software Engineer | Undergraduate at University of Colombo</h3>
 
 <p align="center">
