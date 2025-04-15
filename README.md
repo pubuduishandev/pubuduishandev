@@ -5,11 +5,9 @@
 <h3 align="center">Associate Software Engineer | Undergraduate at University of Colombo</h3>
 
 <p align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pubuduishandev&label=Profile%20views&color=0e75b6&style=flat" alt="pubuduishandev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pubuduishandev" alt="pubuduishandev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pubuduishandigi" target="blank"><img src="https://img.shields.io/twitter/follow/pubuduishandigi?logo=twitter&style=for-the-badge" alt="pubuduishandigi" /></a> </p>
+  <img src="https://komarev.com/ghpvc/?username=pubuduishandev&label=Profile%20views&color=0e75b6&style=flat" alt="pubuduishandev" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pubuduishandev" alt="pubuduishandev" /></a>
+  <a href="https://twitter.com/pubuduishandigi" target="blank"><img src="https://img.shields.io/twitter/follow/pubuduishandigi?logo=twitter&style=for-the-badge" alt="pubuduishandigi" /></a>
 </p>
 
 <table align="center">
@@ -30,8 +28,8 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://fb.com/pubuduishandigital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pubuduishandigital" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pubuduishandigital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pubuduishandigital" height="30" width="40" /></a>
 <a href="https://twitter.com/pubuduishandigi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pubuduishandigi" height="30" width="40" /></a>
