@@ -6,11 +6,8 @@
 <p align="center">Associate Software Engineer at LAUGFS Holdings Limited | B.ICT (Hons.) Undergraduate, University of Colombo</p> <br>
 
 <p align="center">
-  <a href="https://twitter.com/pubuduishandigi" target="blank"><img src="https://img.shields.io/twitter/follow/pubuduishandigi?logo=twitter&style=for-the-badge" alt="pubuduishandigi" /></a> <br>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pubuduishandev&label=Profile%20views&color=0e75b6&style=flat" alt="pubuduishandev" /> <br>
+  <a href="https://twitter.com/pubuduishandigi" target="blank"><img src="https://img.shields.io/twitter/follow/pubuduishandigi?logo=twitter&style=for-the-badge" alt="pubuduishandigi" /></a> 
+   <img src="https://komarev.com/ghpvc/?username=pubuduishandev&label=Profile%20views&color=0e75b6&style=flat" alt="pubuduishandev" /> <br>
 </p>
 
 ---
