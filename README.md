@@ -12,7 +12,7 @@
 
 ---
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td width="50%" align="left">
       - 🌱 I’m currently focused on Mobile & Web App Development <br>
