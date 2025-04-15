@@ -2,12 +2,13 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 </p>
 <h1 align="center">Hello 👋, <br> I'm Pubudu Ishan Wickrama Arachchi</h1>
+<a href="https://twitter.com/pubuduishandigi" target="blank"><img src="https://img.shields.io/twitter/follow/pubuduishandigi?logo=twitter&style=for-the-badge" alt="pubuduishandigi" /></a> <br>
 <h3 align="center">Associate Software Engineer | Undergraduate at University of Colombo</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pubuduishandev&label=Profile%20views&color=0e75b6&style=flat" alt="pubuduishandev" /> <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pubuduishandev" alt="pubuduishandev" /></a> <br>
-  <a href="https://twitter.com/pubuduishandigi" target="blank"><img src="https://img.shields.io/twitter/follow/pubuduishandigi?logo=twitter&style=for-the-badge" alt="pubuduishandigi" /></a> <br>
+
 </p>
 
 <table align="center">
