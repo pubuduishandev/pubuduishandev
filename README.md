@@ -37,16 +37,13 @@
 ---
 
 <h3 align="center">GitHub Status</h3>
-<table align="center" border="0">
-  <tr>
-    <td width="50%" align="left">
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pubuduishandev&show_icons=true&locale=en" alt="pubuduishandev" /></p>
-    </td>
-    <td width="50%" align="center">
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pubuduishandev&" alt="pubuduishandev" /></p>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pubuduishandev&show_icons=true&locale=en" alt="pubuduishandev" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pubuduishandev" alt="pubuduishandev" />
+</p>
+
 
 ---
 
