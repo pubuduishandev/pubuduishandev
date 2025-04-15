@@ -15,11 +15,11 @@
   <tr>
     <td width="50%" align="left">
       - 🌱 I’m currently focused on Mobile & Web App Development <br>
-      - 🧑‍🎓 Undergraduate at University of Colombo - Department of ICT <br>
-      - 💼 Associate Software Engineer at LAUGFS Holdings Limited - Group IT <br>
+      - 👨‍🎓 B.ICT (Hons.) Undergraduate, University of Colombo, Sri Lanka <br>
+      - 💼 Associate Software Engineer at LAUGFS Holdings Limited <br>
       - 💬 Ask me about Flutter, VueJs, NodeJS, Laravel, RestAPIs <br>
       - 📫 Reach me at pubuduishan@outlook.com <br>
-      - ⚡ Fun fact: I love creating clean, fast, and functional digital solutions!
+      - ⚡ I love creating clean, fast, and functional digital solutions!
     </td>
     <td width="50%" align="center">
       <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
