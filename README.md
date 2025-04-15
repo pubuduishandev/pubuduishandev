@@ -41,9 +41,9 @@
 
 <h3 align="center">GitHub Status</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pubuduishandev&show_icons=true&locale=en" alt="pubuduishandev" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pubuduishandev" alt="pubuduishandev" />
+<img src="https://github-readme-stats.vercel.app/api?username=pubuduishandev&show_icons=true&locale=en" alt="pubuduishandev" />
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pubuduishandev" alt="pubuduishandev" />
 </p>
 
 ---
