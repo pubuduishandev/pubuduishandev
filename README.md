@@ -1,18 +1,18 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0c7bb3&height=200&section=header&text=Pubudu%20Ishan%20Perera&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0c7bb3&height=200&section=header&text=Pubudu%20Ishan%20Wickrama%20Arachchi&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 </p>
 
-<h2 align="center">👋 Hi there, I'm Pubudu Ishan Perera</h2>
+<h2 align="center">👋 Hi there, I'm Pubudu Ishan Wickrama Arachchi</h2>
 <p align="center">
-  <em>Associate Software Engineer | Undergraduate at University of Colombo</em>
+  <em>Associate Software Engineer at LAUGFS Holdings Limited | B.ICT (Hons.) Undergraduate, University of Colombo</em>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am an undergraduate student at the University of Colombo, majoring in Information and Communication Technology (ICT). Currently, I work as an Associate Software Engineer at LAUGFS Holdings Group IT, where I was promoted after my internship. My academic journey and industry experience have allowed me to gain expertise in software development, web technologies, and system integration.
+I am an undergraduate student at the University of Colombo, majoring in Information and Communication Technology (ICT). Currently, I work as an Associate Software Engineer at LAUGFS Holdings Limited - Group IT, where I was promoted after my internship. My academic journey and industry experience have allowed me to gain expertise in software development, web technologies, and system integration.
 
 I’m passionate about leveraging technology to solve real-world problems and continuously adapting to new trends in the IT industry. I enjoy collaborating with cross-functional teams, driving innovation, and optimizing business processes through technical solutions.
 
