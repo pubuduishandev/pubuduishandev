@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=200&section=header&text=Welcome!&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0c7bb3&height=200&section=header&text=Welcome!&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 </p>
 
 <h2 align="center">👋 Hi there, I'm Pubudu Ishan Wickrama Arachchi</h2>
