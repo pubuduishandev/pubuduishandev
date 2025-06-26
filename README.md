@@ -40,6 +40,15 @@ I’m passionate about leveraging technology to solve real-world problems and co
 
 ---
 
+### 📈 Profile Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pubuduishandev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/pubuduishandev?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+</p>
+
+---
+
 ### 📊 GitHub Stats & Trophies
 
 <p align="center">
