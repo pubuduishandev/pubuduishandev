@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0c7bb3&height=200&section=header&text=Welcome!&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 </p>
 
-<p align="center">More actions
+<p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 </p>
 
