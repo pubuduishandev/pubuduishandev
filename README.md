@@ -40,12 +40,26 @@ I’m passionate about leveraging technology to solve real-world problems and co
 
 ---
 
-### 🌟 Featured Project
+## 🌟 Featured Projects
 
-- **[Currents](https://github.com/pubuduishandev/Currents)**  
-  _A project that showcases my expertise in software development and innovative problem-solving._
+<div align="center">
 
----
+### 🌊 [Currents](https://github.com/pubuduishandev/Currents)
+*Mobile Application - A showcase of innovative mobile development*
+
+### ⌨️ [Typing Survey](https://github.com/pubuduishandev/typing-survey)
+*Web Application - Interactive typing speed and accuracy assessment tool*
+
+### 🔧 [Orange-HRM Test Automation](https://github.com/pubuduishandev/Orange-HRM-Test-Automation)
+*Python QA Automation - Comprehensive test suite for HR management system*
+
+### 📱 [BMI Calculator](https://github.com/pubuduishandev/bmi_and_age_calculator_by_flickbox)
+*Mobile Application - Health and wellness calculator with age tracking*
+
+### 🏦 [Bank Management System](https://github.com/pubuduishandev/Bank_Management_System)
+*Java Swing Application - Complete banking solution with GUI interface*
+
+</div>
 
 ### 📈 Profile Stats
 
