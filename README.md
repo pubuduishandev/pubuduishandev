@@ -59,12 +59,21 @@ I’m passionate about leveraging technology to solve real-world problems and co
 
 ---
 
+<div align="center">
+  
 ### 📈 Profile Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pubuduishandev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/pubuduishandev?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-</p>
+![](https://komarev.com/ghpvc/?username=pubuduishandev&color=blueviolet&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/pubuduishandev?style=flat-square&color=blueviolet)](https://github.com/pubuduishandev)
+[![GitHub stars](https://img.shields.io/github/stars/pubuduishandev?style=flat-square&color=blueviolet)](https://github.com/pubuduishandev)
+[![GitHub forks](https://img.shields.io/github/forks/pubuduishandev/Currents?style=flat-square&color=blueviolet)](https://github.com/pubuduishandev)
+
+[![Total Commits](https://img.shields.io/badge/Total%20Commits-1000+-blueviolet?style=flat-square)](https://github.com/pubuduishandev)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-15+-blueviolet?style=flat-square)](https://github.com/pubuduishandev?tab=repositories)
+[![Years Active](https://img.shields.io/badge/Years%20Active-3+-blueviolet?style=flat-square)](https://github.com/pubuduishandev)
+[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-50K+-blueviolet?style=flat-square)](https://github.com/pubuduishandev)
+
+</div>
 
 ---
 
