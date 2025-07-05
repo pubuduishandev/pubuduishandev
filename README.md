@@ -143,6 +143,8 @@ I’m passionate about leveraging technology to solve real-world problems and co
 🎯 **Problem Solver:** Love tackling complex challenges with innovative solutions <br>
 🌱 **Growth Mindset:** Constantly adapting to new trends in the tech industry <br>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=true&textBg=false"/>
 </div>
