@@ -1,16 +1,11 @@
-<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+</p>
+
 <h2 align="center">👋 Hi there, I'm Pubudu Ishan Wickrama Arachchi</h2>
 <p align="center">
   <em>Associate Software Engineer at LAUGFS Holdings Limited | B.ICT (Hons.) Undergraduate, University of Colombo</em>
 </p>
-
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
-</p>
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Associate+Software+Engineer;B.ICT+Student+%40+University+of+Colombo;Full+Stack+Developer;Technology+Enthusiast)](https://git.io/typing-svg)
-
 
 <div align="center">
   
