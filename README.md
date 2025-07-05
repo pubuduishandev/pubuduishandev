@@ -46,7 +46,7 @@ I’m passionate about leveraging technology to solve real-world problems and co
 
 ---
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
 <div align="left">
 
@@ -108,7 +108,7 @@ I’m passionate about leveraging technology to solve real-world problems and co
 
 ---
 
-## 📈 Coding Activity
+### 📈 Coding Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pubuduishandev&theme=tokyo-night&hide_border=true" />
 </div>
