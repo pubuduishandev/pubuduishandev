@@ -128,3 +128,8 @@ I’m passionate about leveraging technology to solve real-world problems and co
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
+## 📈 Coding Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pubuduishandev&theme=tokyo-night&hide_border=true" />
+</div>
