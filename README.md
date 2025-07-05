@@ -3,9 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0c7bb3&height=200&section=header&text=Welcome!&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Associate+Software+Engineer;Mobile+Application+Developer;Web+Application+Developer;B.ICT+(Hons.)+Undergraduate)](https://git.io/typing-svg)
+
+</div>
 
 <h2 align="center">👋 Hi there, I'm Pubudu Ishan Wickrama Arachchi</h2>
 <p align="center">
