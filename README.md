@@ -1,99 +1,114 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0c7bb3&height=200&section=header&text=Welcome!&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn" alt="banner"/>
-</p>
+# Hi there, I'm Pubudu Ishan 👋
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Associate+Software+Engineer;B.ICT+Student+%40+University+of+Colombo;Full+Stack+Developer;Technology+Enthusiast)](https://git.io/typing-svg)
 
-<h2 align="center">👋 Hi there, I'm Pubudu Ishan Wickrama Arachchi</h2>
-<p align="center">
-  <em>Associate Software Engineer at LAUGFS Holdings Limited | B.ICT (Hons.) Undergraduate, University of Colombo</em>
-</p>
+</div>
 
 ---
 
-### 🚀 About Me
+## 🧑‍💻 About Me
 
-I am an undergraduate student at the University of Colombo, majoring in Information and Communication Technology (ICT). Currently, I work as an Associate Software Engineer at LAUGFS Holdings Limited - Group IT, where I was promoted after my internship. My academic journey and industry experience have allowed me to gain expertise in software development, web technologies, and system integration.
+I'm a passionate software engineer and B.ICT (Hons.) undergraduate at the University of Colombo. Currently working as an Associate Software Engineer at LAUGFS Holdings Limited - Group IT, where I was promoted after my internship.
 
-I’m passionate about leveraging technology to solve real-world problems and continuously adapting to new trends in the IT industry. I enjoy collaborating with cross-functional teams, driving innovation, and optimizing business processes through technical solutions.
-
----
-
-### 🛠️ Top Skills & Technologies
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495e?logo=vue.js&logoColor=4FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?logo=api&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+🔹 **Current Role:** Associate Software Engineer at LAUGFS Holdings Limited  
+🔹 **Education:** B.ICT (Hons.), University of Colombo  
+🔹 **Focus:** Full-stack development, mobile applications, and system integration  
+🔹 **Passion:** Solving real-world problems through innovative technology solutions  
 
 ---
 
-### 🌟 Featured Project
+## 🛠️ Tech Stack
 
-- **[Currents](https://github.com/pubuduishandev/Currents)**  
-  _A project that showcases my expertise in software development and innovative problem-solving._
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Tools & Platforms
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
+## 🌟 Featured Project
+
+<div align="center">
+  
+### [🌊 Currents](https://github.com/pubuduishandev/Currents)
+*A showcase of innovative software development and problem-solving capabilities*
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pubuduishandev&repo=Currents&theme=tokyonight)](https://github.com/pubuduishandev/Currents)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pubuduishandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishandev&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pubuduishandev&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pubuduishandev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pubuduishandigital)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pubuduishandigi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pubuduishandev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pubuduishandigital)
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pubuduishandigital)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/pubuduishandev)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/pubuduishandev)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pubuduishandigital)
+
+</div>
+
+---
+
+## 💡 Fun Facts
+
+- 🔍 **Research Enthusiast:** Always exploring cutting-edge technologies
+- 🧠 **Lifelong Learner:** Passionate about continuous learning and knowledge sharing
+- 🎯 **Problem Solver:** Love tackling complex challenges with innovative solutions
+- 🌱 **Growth Mindset:** Constantly adapting to new trends in the tech industry
+
+---
+
+<div align="center">
+  
 ### 📈 Profile Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pubuduishandev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/pubuduishandev?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-</p>
+![](https://komarev.com/ghpvc/?username=pubuduishandev&color=blueviolet&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/pubuduishandev?style=flat-square&color=blueviolet)](https://github.com/pubuduishandev)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pubuduishandev&theme=onestar&no-bg=true&margin-w=15" alt="Trophies" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=pubuduishandev&show_icons=true&theme=radical" alt="Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pubuduishandev&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishandev&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://facebook.com/pubuduishandigital"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/pubuduishandigital"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/pubuduishandigi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/pubuduishandigital"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
-  <a href="https://threads.com/pubuduishandigital"><img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white"/></a>
-  <a href="https://www.reddit.com/user/pubuduishandigital/"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@pubuduishandigital"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
-  <a href="https://www.pinterest.com/pubuduishandigital"><img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white"/></a>
-  <a href="https://discord.gg/pubuduishandigital"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/pubuduishandev"><img src="https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://kaggle.com/pubuduishandev"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"/></a>
-  <a href="https://github.com/pubuduishandev"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 🤓 Fun Facts & Interests
-
-- 📚 Love researching and exploring new technologies
-- 💡 Passionate about continuous learning and sharing knowledge
-- 🧩 Enjoy solving complex problems and building innovative solutions
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0c7bb3&height=100&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
