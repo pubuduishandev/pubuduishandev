@@ -146,5 +146,5 @@ I’m passionate about leveraging technology to solve real-world problems and co
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=true&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&textBg=false"/>
 </div>
