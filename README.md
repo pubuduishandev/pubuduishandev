@@ -10,7 +10,9 @@
 
 
 <div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Associate+Software+Engineer;Mobile+Application+Developer;Web+Application+Developer;B.ICT+(Hons.)+Undergraduate)](https://git.io/typing-svg)
+
 </div>
 
 ---
