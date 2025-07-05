@@ -71,9 +71,6 @@ I’m passionate about leveraging technology to solve real-world problems and co
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-15+-blueviolet?style=flat-square)](https://github.com/pubuduishandev?tab=repositories)
 [![Years Active](https://img.shields.io/badge/Years%20Active-3+-blueviolet?style=flat-square)](https://github.com/pubuduishandev)
 [![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-50K+-blueviolet?style=flat-square)](https://github.com/pubuduishandev)
-[![GitHub issues](https://img.shields.io/github/issues/pubuduishandev/repository-name?style=flat-square&color=blueviolet)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/pubuduishandev/repository-name?style=flat-square&color=blueviolet)]()
-[![GitHub license](https://img.shields.io/github/license/pubuduishandev/repository-name?style=flat-square&color=blueviolet)]()
 
 </div>
 
