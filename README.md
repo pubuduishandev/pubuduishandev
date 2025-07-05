@@ -65,7 +65,7 @@ I’m passionate about leveraging technology to solve real-world problems and co
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pubuduishandev&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishandev&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishandev&layout=compact&&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
