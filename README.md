@@ -70,15 +70,23 @@ I’m passionate about leveraging technology to solve real-world problems and co
 
 ### 📊 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pubuduishandev&theme=onestar&no-bg=true&margin-w=15" alt="Trophies" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=pubuduishandev&show_icons=true&theme=radical" alt="Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pubuduishandev&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishandev&layout=compact&&theme=tokyonight" alt="Top Langs" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-trophy.vercel.app/?username=pubuduishandev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=3"/>
+      </td>
+      <td width="50%">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pubuduishandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <br><br>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishandev&layout=compact&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pubuduishandev&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
