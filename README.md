@@ -59,7 +59,7 @@ I’m passionate about leveraging technology to solve real-world problems and co
 
 ---
 
-<div align="center">
+<div align="left">
   
 ### 📈 Profile Stats
 
