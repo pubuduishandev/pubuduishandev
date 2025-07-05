@@ -136,12 +136,12 @@ I’m passionate about leveraging technology to solve real-world problems and co
 
 ---
 
-### 🤓 Fun Facts & Interests
+## 💡 Fun Facts
 
-- 🔍 Research Enthusiast: Always exploring cutting-edge technologies
-- 🧠 Lifelong Learner: Passionate about continuous learning and knowledge sharing
-- 🎯 Problem Solver: Love tackling complex challenges with innovative solutions
-- 🌱 Growth Mindset: Constantly adapting to new trends in the tech industry
+- 🔍 **Research Enthusiast:** Always exploring cutting-edge technologies
+- 🧠 **Lifelong Learner:** Passionate about continuous learning and knowledge sharing
+- 🎯 **Problem Solver:** Love tackling complex challenges with innovative solutions
+- 🌱 **Growth Mindset:** Constantly adapting to new trends in the tech industry
 
 ---
 
