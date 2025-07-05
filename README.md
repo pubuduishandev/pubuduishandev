@@ -132,8 +132,8 @@ I’m passionate about leveraging technology to solve real-world problems and co
   <a href="https://github.com/pubuduishandev"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connections-blueviolet?style=flat-square)]()
-[![Twitter](https://img.shields.io/twitter/follow/pubuduishandigi?style=flat-square&color=blueviolet)]()
+![Twitter Follow](https://img.shields.io/twitter/follow/pubuduishandigi?style=social)
+
 
 ---
 
