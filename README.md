@@ -3,21 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0c7bb3&height=200&section=header&text=Welcome!&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 </p>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Associate+Software+Engineer;Mobile+Application+Developer;Web+Application+Developer;B.ICT+(Hons.)+Undergraduate)](https://git.io/typing-svg)
-
-</div>
-
 <h2 align="center">👋 Hi there, I'm Pubudu Ishan Wickrama Arachchi</h2>
 <p align="center">
   <em>Associate Software Engineer at LAUGFS Holdings Limited | B.ICT (Hons.) Undergraduate, University of Colombo</em>
 </p>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Associate+Software+Engineer;B.ICT+Student+%40+University+of+Colombo;Full+Stack+Developer;Technology+Enthusiast)](https://git.io/typing-svg)
 
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Associate+Software+Engineer;Mobile+Application+Developer;Web+Application+Developer;B.ICT+(Hons.)+Undergraduate)](https://git.io/typing-svg)
 </div>
 
 ---
