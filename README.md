@@ -42,7 +42,7 @@ I’m passionate about leveraging technology to solve real-world problems and co
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### 🌊 [Currents](https://github.com/pubuduishandev/Currents)
 *Mobile Application - A showcase of innovative mobile development*
@@ -60,6 +60,8 @@ I’m passionate about leveraging technology to solve real-world problems and co
 *Java Swing Application - Complete banking solution with GUI interface*
 
 </div>
+
+---
 
 ### 📈 Profile Stats
 
