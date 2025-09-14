@@ -141,6 +141,7 @@ I’m passionate about leveraging technology to solve real-world problems and co
   <a href="https://kaggle.com/pubuduishandev"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"/></a>
   <a href="https://github.com/pubuduishandev"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
   <a href="https://www.youtube.com/@pubuduishandigital"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@pubuduishandigital"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white"/></a>
   <a href="https://discord.gg/pubuduishandigital"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
   <a href="https://m.me/pubuduishandigital"><img src="https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white"/></a>
   <a href="https://wa.me/+94778830166"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/></a>
