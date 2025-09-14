@@ -40,6 +40,7 @@ I’m passionate about leveraging technology to solve real-world problems and co
 ![Realm](https://img.shields.io/badge/Realm-5D3F96?logo=realm&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?logo=api&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
