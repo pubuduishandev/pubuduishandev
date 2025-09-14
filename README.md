@@ -131,8 +131,8 @@ I’m passionate about leveraging technology to solve real-world problems and co
 
 <p align="left">
   <a href="https://facebook.com/pubuduishandigital"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/pubuduishandigital"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/pubuduishandigi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/pubuduishandigital"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+  <a href="https://twitter.com/pubuduishandigi"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
   <a href="https://instagram.com/pubuduishandigital"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
   <a href="https://threads.com/pubuduishandigital"><img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white"/></a>
   <a href="https://www.reddit.com/user/pubuduishandigital/"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"/></a>
@@ -142,6 +142,7 @@ I’m passionate about leveraging technology to solve real-world problems and co
   <a href="https://stackoverflow.com/users/pubuduishandev"><img src="https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white"/></a>
   <a href="https://kaggle.com/pubuduishandev"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"/></a>
   <a href="https://github.com/pubuduishandev"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@pubuduishandigital"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
 </p>
 
 ---
