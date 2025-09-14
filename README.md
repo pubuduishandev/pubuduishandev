@@ -144,6 +144,8 @@ I’m passionate about leveraging technology to solve real-world problems and co
   <a href="https://discord.gg/pubuduishandigital"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
   <a href="https://m.me/pubuduishandigital"><img src="https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white"/></a>
   <a href="https://wa.me/+94778830166"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/></a>
+  <a href="t.me/pubuduishandigital"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
+  <a href="mailto:pubuduishan2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
