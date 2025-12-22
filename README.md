@@ -62,20 +62,20 @@ I’m passionate about leveraging technology to solve real-world problems and co
 
 <div align="left">
 
+### 🌐 [flickbox-web](https://github.com/pubuduishandev/flickbox-web)
+*Web Application - Official web platform for FlickBox Technologies*
+
+### 👨‍💻 [portfolio.me](https://github.com/pubuduishandev/portfolio.me)
+*Personal Website - A modern portfolio showcasing professional projects and skills*
+
+### 🎯 [issue-tracker](https://github.com/pubuduishandev/issue-tracker)
+*Project Management - A streamlined system for tracking bugs and task progress*
+
 ### 🌊 [Currents](https://github.com/pubuduishandev/Currents)
 *Mobile Application - A showcase of innovative mobile development*
 
-### ⌨️ [Typing Survey](https://github.com/pubuduishandev/typing-survey)
-*Web Application - Interactive typing speed and accuracy assessment tool*
-
-### 🔧 [Orange-HRM Test Automation](https://github.com/pubuduishandev/Orange-HRM-Test-Automation)
-*Python QA Automation - Comprehensive test suite for HR management system*
-
-### 📱 [BMI Calculator](https://github.com/pubuduishandev/bmi_and_age_calculator_by_flickbox)
-*Mobile Application - Health and wellness calculator with age tracking*
-
-### 🏦 [Bank Management System](https://github.com/pubuduishandev/Bank_Management_System)
-*Java Swing Application - Complete banking solution with GUI interface*
+### 🐹 [hello_golang](https://github.com/pubuduishandev/hello_golang)
+*Go Programming - Implementation of core concepts and experiments in Golang*
 
 </div>
 
