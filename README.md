@@ -4,7 +4,7 @@
 
 <h2 align="center">👋 Hi there, I'm Pubudu Ishan Wickrama Arachchi</h2>
 <p align="center">
-  <em>Associate Software Engineer at LAUGFS Holdings Limited | B.ICT (Hons.) Undergraduate, University of Colombo</em>
+  <em>Associate Software Engineer at LAUGFS Holdings Limited | B.ICT (Hons.), University of Colombo</em>
 </p>
 
 <div align="center">
@@ -17,9 +17,11 @@
 
 ### 🚀 About Me
 
-I am an undergraduate student at the University of Colombo, majoring in Information and Communication Technology (ICT). Currently, I work as an Associate Software Engineer at LAUGFS Holdings Limited - Group IT, where I was promoted after my internship. My academic journey and industry experience have allowed me to gain expertise in software development, web technologies, and system integration.
+I'm Pubudu Ishan Wickrama Arachchi, an Associate Software Engineer who recently completed a Bachelor’s degree at the Faculty of Technology, University of Colombo, with a Second Class (Lower Division) Honours (GPA: 3.09). With a strong foundation in both mobile and web development, I specialize in creating intuitive, user-centered applications that solve real-world problems.
 
-I’m passionate about leveraging technology to solve real-world problems and continuously adapting to new trends in the IT industry. I enjoy collaborating with cross-functional teams, driving innovation, and optimizing business processes through technical solutions.
+My journey in software engineering has equipped me with expertise in modern technologies including Flutter, Vue.js, Laravel, Firebase, React, and various frameworks. I'm also passionate about UI/UX design and believe that great code should always be paired with an exceptional user experience.
+
+When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or mentoring aspiring developers in the tech community.
 
 ---
 
