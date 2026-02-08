@@ -4,7 +4,7 @@
 
 <h2 align="center">👋 Hi there, I'm Pubudu Ishan Wickrama Arachchi</h2>
 <p align="center">
-  <em>Owner and Founder of FlickBox Technologies, Software Engineer at LAUGFS Holdings Limited | B.ICT (Hons.), University of Colombo</em>
+  <em>Owner and Founder of FlickBox Technologies | Software Engineer at LAUGFS Holdings Limited | B.ICT (Hons.), University of Colombo</em>
 </p>
 
 <div align="center">
