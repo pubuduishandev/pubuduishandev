@@ -4,7 +4,7 @@
 
 <h2 align="center">👋 Hi there, I'm Pubudu Ishan Wickrama Arachchi</h2>
 <p align="center">
-  <em>Associate Software Engineer at LAUGFS Holdings Limited | B.ICT (Hons.), University of Colombo</em>
+  <em>Owner and Founder of FlickBox Technologies, Software Engineer at LAUGFS Holdings Limited | B.ICT (Hons.), University of Colombo</em>
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-I'm Pubudu Ishan Wickrama Arachchi, an Associate Software Engineer who recently completed a Bachelor’s degree at the Faculty of Technology, University of Colombo, with a Second Class (Lower Division) Honours (GPA: 3.09). With a strong foundation in both mobile and web development, I specialize in creating intuitive, user-centered applications that solve real-world problems.
+I'm Pubudu Ishan Wickrama Arachchi, an Software Engineer who recently completed a Bachelor’s degree at the Faculty of Technology, University of Colombo, with a Second Class (Lower Division) Honours (GPA: 3.09). With a strong foundation in both mobile and web development, I specialize in creating intuitive, user-centered applications that solve real-world problems.
 
 My journey in software engineering has equipped me with expertise in modern technologies including Flutter, Vue.js, Laravel, Firebase, React, and various frameworks. I'm also passionate about UI/UX design and believe that great code should always be paired with an exceptional user experience.
 
