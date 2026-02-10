@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-I'm Pubudu Ishan Wickrama Arachchi, an Software Engineer who recently completed a Bachelor’s degree at the Faculty of Technology, University of Colombo, with a Second Class (Lower Division) Honours (GPA: 3.09). With a strong foundation in both mobile and web development, I specialize in creating intuitive, user-centered applications that solve real-world problems.
+I'm Pubudu Ishan Wickrama Arachchi, a Software Engineer who recently completed a Bachelor’s degree at the Faculty of Technology, University of Colombo, with a Second Class (Lower Division) Honours (GPA: 3.09). With a strong foundation in both mobile and web development, I specialize in creating intuitive, user-centered applications that solve real-world problems.
 
 My journey in software engineering has equipped me with expertise in modern technologies including Flutter, Vue.js, Laravel, Firebase, React, and various frameworks. I'm also passionate about UI/UX design and believe that great code should always be paired with an exceptional user experience.
 
@@ -72,8 +72,6 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 [![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-50K+-blueviolet?style=flat-square)](https://github.com/pubuduishandev)
 
 </div>
-
----
 
 ### 📊 GitHub Stats & Trophies
 
