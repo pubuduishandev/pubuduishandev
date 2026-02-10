@@ -9,7 +9,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Mobile+Application+Developer;Web+Application+Developer;B.ICT+(Hons.)+Undergraduate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Software+Engineer;Full+Stack+Developer;Mobile+Application+Developer;UI%2FUX+Designer;Tech+Enthusiast;Tech+Explorer;Freelancer)](https://git.io/typing-svg)
 
 </div>
 
