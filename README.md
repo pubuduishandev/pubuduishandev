@@ -9,7 +9,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Mobile+Application+Developer;UI%2FUX+Designer;Tech+Enthusiast;Tech+Explorer;Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Mobile+Application+Developer;Web+Application+Developer;B.ICT+(Hons.)+Undergraduate)](https://git.io/typing-svg)
 
 </div>
 
@@ -57,29 +57,6 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
-
----
-
-### 🌟 Featured Projects
-
-<div align="left">
-
-### 🌐 [flickbox-web](https://github.com/pubuduishandev/flickbox-web)
-*Web Application - Official web platform for FlickBox Technologies*
-
-### 👨‍💻 [portfolio.me](https://github.com/pubuduishandev/portfolio.me)
-*Personal Website - A modern portfolio showcasing professional projects and skills*
-
-### 🎯 [issue-tracker](https://github.com/pubuduishandev/issue-tracker)
-*Project Management - A streamlined system for tracking bugs and task progress*
-
-### 🌊 [Currents](https://github.com/pubuduishandev/Currents)
-*Mobile Application - A showcase of innovative mobile development*
-
-### 🐹 [hello_golang](https://github.com/pubuduishandev/hello_golang)
-*Go Programming - Implementation of core concepts and experiments in Golang*
-
-</div>
 
 ---
 
