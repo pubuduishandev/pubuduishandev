@@ -15,13 +15,21 @@
 
 ### 🚀 About Me
 
-I'm Pubudu Ishan Wickrama Arachchi, a passionate Software Engineer and Founder of FlickBox Technologies who recently completed a Bachelor’s degree at the Faculty of Technology, University of Colombo, graduating with Second Class Honours (Lower Division) and a GPA of 3.09.
+By profession I’m a Software Engineer, but at heart I’m someone who enjoys building digital experiences and turning ideas into real, usable products that make everyday life a little easier and smarter.
 
-I have a strong foundation in both mobile and web application development, focusing on building intuitive, user-centered digital solutions that solve real-world problems. My technical expertise includes modern technologies such as Flutter, Vue.js, React, Laravel, Firebase, and various backend frameworks.
+My journey into tech was not only about learning programming languages or frameworks. It was about understanding how technology can solve real-world problems and connect people. From mobile applications to full-stack web platforms, I have always been drawn to creating solutions that are both functional and visually engaging.
 
-Beyond coding, I am deeply interested in UI/UX design, believing that great software is not only functional but also delivers an exceptional user experience.
+I hold a Bachelor of Information and Communication Technology (Honours) from the University of Colombo. Over time I have gained hands-on experience with technologies such as Flutter, React, Vue, Laravel, Firebase, and modern backend ecosystems. Beyond tools and stacks, what truly motivates me is UI/UX thinking. I believe great software is a balance between clean architecture and meaningful user experience.
 
-When I’m not developing software, I enjoy exploring emerging technologies, contributing to open-source projects, and mentoring aspiring developers within the tech community.
+I am also the Founder of FlickBox Technologies, where I explore ideas outside my day-to-day role and experiment with building scalable digital solutions. Entrepreneurship has taught me resilience, adaptability, and the importance of continuous learning in a fast-moving industry.
+
+My path has not always been perfectly linear. There were moments of uncertainty, missed opportunities, and lessons learned the hard way. One thing that defines me is persistence. I believe growth comes from curiosity, consistency, and the courage to try again.
+
+Outside of coding, you will usually find me exploring emerging technologies, contributing to open-source projects, refining design concepts, or mentoring developers who are just starting their journeys.
+
+At the core, I value innovation, collaboration, and lifelong learning. I do not just want to write code. I want to build products that create a meaningful impact.
+
+Let’s connect, collaborate, and build something valuable together. 🚀
 
 ---
 
