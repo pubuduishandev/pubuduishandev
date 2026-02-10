@@ -75,6 +75,8 @@ When I’m not developing software, I enjoy exploring emerging technologies, con
 
 </div>
 
+---
+
 ### 📊 GitHub Stats & Trophies
 
 <div align="center">
