@@ -19,7 +19,7 @@ By profession I’m a Software Engineer, but at heart I’m someone who enjoys b
 
 My journey into tech was not only about learning programming languages or frameworks. It was about understanding how technology can solve real-world problems and connect people. From mobile applications to full-stack web platforms, I have always been drawn to creating solutions that are both functional and visually engaging.
 
-I hold a Bachelor of Information and Communication Technology (Honours) from the University of Colombo. Over time I have gained hands-on experience with technologies such as Flutter, React, Vue, Laravel, Firebase, and modern backend ecosystems. Beyond tools and stacks, what truly motivates me is UI/UX thinking. I believe great software is a balance between clean architecture and meaningful user experience.
+I hold a Bachelor of Information and Communication Technology (Honours) with Second Class from the University of Colombo. Over time I have gained hands-on experience with technologies such as Flutter, React, Vue, Laravel, Firebase, and modern backend ecosystems. Beyond tools and stacks, what truly motivates me is UI/UX thinking. I believe great software is a balance between clean architecture and meaningful user experience.
 
 I am also the Founder of FlickBox Technologies, where I explore ideas outside my day-to-day role and experiment with building scalable digital solutions. Entrepreneurship has taught me resilience, adaptability, and the importance of continuous learning in a fast-moving industry.
 
