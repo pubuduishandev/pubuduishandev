@@ -1,166 +1,101 @@
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
-</p>
-
-<h2 align="center">👋 Hi there, I'm Pubudu Ishan Wickrama Arachchi</h2>
-<p align="center">
-  <em>Owner and Founder of FlickBox Technologies | Software Engineer at LAUGFS Holdings Limited | B.ICT (Hons.), University of Colombo</em>
-</p>
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Associate+Software+Engineer;Mobile+Application+Developer;Web+Application+Developer;B.ICT+(Hons.)+Undergraduate)](https://git.io/typing-svg)
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 
+  <h1 align="center">👋 Hi there, I'm Pubudu Ishan</h1>
+  
+  <h3 align="center">
+    Owner & Founder of FlickBox Technologies | Software Engineer at LAUGFS Holdings Limited
+  </h3>
+  <p align="center">
+    <em>B.ICT (Hons.), University of Colombo</em>
+  </p>
+
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Mobile+Application+Developer;UI%2FUX+Designer;Tech+Enthusiast;Tech+Explorer;Freelancer" alt="Typing SVG" />
+    </a>
+  </div>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I'm Pubudu Ishan Wickrama Arachchi, an Software Engineer who recently completed a Bachelor’s degree at the Faculty of Technology, University of Colombo, with a Second Class (Lower Division) Honours (GPA: 3.09). With a strong foundation in both mobile and web development, I specialize in creating intuitive, user-centered applications that solve real-world problems.
+I'm **Pubudu Ishan Wickrama Arachchi**, a Software Engineer recently graduated from the **University of Colombo** (Faculty of Technology) with Second Class Honours (Lower Division). I specialize in building intuitive, user-centered applications that solve real-world problems.
 
-My journey in software engineering has equipped me with expertise in modern technologies including Flutter, Vue.js, Laravel, Firebase, React, and various frameworks. I'm also passionate about UI/UX design and believe that great code should always be paired with an exceptional user experience.
-
-When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or mentoring aspiring developers in the tech community.
+* 🔭 I’m currently working on **FlickBox Technologies** & **LAUGFS Holdings**
+* 📱 I specialize in **Mobile (Flutter/Native)** and **Web (Vue/React/Laravel)**
+* 🎨 I believe great code requires an **exceptional User Experience (UI/UX)**
+* 🤝 I love mentoring aspiring developers and contributing to **Open Source**
 
 ---
 
-### 🛠️ Top Skills & Technologies
+### 🛠️ Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495e?logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=sql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Realm](https://img.shields.io/badge/Realm-5D3F96?logo=realm&logoColor=white)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?logo=api&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
-[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
-[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
+<div align="center">
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vue.js&logoColor=4FC08D) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Realm](https://img.shields.io/badge/Realm-5D3F96?style=flat-square&logo=realm&logoColor=white) |
+| **Languages** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
+
+</div>
 
 ---
 
 ### 🌟 Featured Projects
 
-<div align="left">
-
-### 🌐 [flickbox-web](https://github.com/pubuduishandev/flickbox-web)
-*Web Application - Official web platform for FlickBox Technologies*
-
-### 👨‍💻 [portfolio.me](https://github.com/pubuduishandev/portfolio.me)
-*Personal Website - A modern portfolio showcasing professional projects and skills*
-
-### 🎯 [issue-tracker](https://github.com/pubuduishandev/issue-tracker)
-*Project Management - A streamlined system for tracking bugs and task progress*
-
-### 🌊 [Currents](https://github.com/pubuduishandev/Currents)
-*Mobile Application - A showcase of innovative mobile development*
-
-### 🐹 [hello_golang](https://github.com/pubuduishandev/hello_golang)
-*Go Programming - Implementation of core concepts and experiments in Golang*
-
-</div>
+| Project | Description | Links |
+| :--- | :--- | :---: |
+| **flickbox-web** | Official web platform for FlickBox Technologies. | [🌐](https://github.com/pubuduishandev/flickbox-web) |
+| **portfolio.me** | A modern portfolio showcasing professional projects and skills. | [👨‍💻](https://github.com/pubuduishandev/portfolio.me) |
+| **issue-tracker** | A streamlined system for tracking bugs and task progress. | [🎯](https://github.com/pubuduishandev/issue-tracker) |
+| **Currents** | A showcase of innovative mobile development. | [🌊](https://github.com/pubuduishandev/Currents) |
+| **hello_golang** | Implementation of core concepts and experiments in Golang. | [🐹](https://github.com/pubuduishandev/hello_golang) |
 
 ---
 
-<div align="left">
-  
-### 📈 Profile Stats
-
-![](https://komarev.com/ghpvc/?username=pubuduishandev&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/pubuduishandev?style=flat-square&color=blueviolet)](https://github.com/pubuduishandev)
-[![GitHub stars](https://img.shields.io/github/stars/pubuduishandev?style=flat-square&color=blueviolet)](https://github.com/pubuduishandev)
-[![GitHub forks](https://img.shields.io/github/forks/pubuduishandev/Currents?style=flat-square&color=blueviolet)](https://github.com/pubuduishandev)
-[![Total Commits](https://img.shields.io/badge/Total%20Commits-1000+-blueviolet?style=flat-square)](https://github.com/pubuduishandev)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-15+-blueviolet?style=flat-square)](https://github.com/pubuduishandev?tab=repositories)
-[![Years Active](https://img.shields.io/badge/Years%20Active-3+-blueviolet?style=flat-square)](https://github.com/pubuduishandev)
-[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-50K+-blueviolet?style=flat-square)](https://github.com/pubuduishandev)
-
-</div>
-
----
-
-### 📊 GitHub Stats & Trophies
+### 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-profile-trophy.vercel.app/?username=pubuduishandev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=3"/>
-      </td>
-      <td width="50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pubuduishandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <br><br>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishandev&layout=compact&theme=tokyonight"/>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/pubuduishandev">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pubuduishandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishandev&layout=compact&theme=tokyonight"/>
+  </a>
 </div>
+
+<br>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pubuduishandev&theme=tokyonight&hide_border=true"/>
 </div>
 
----
-
-### 📈 Coding Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pubuduishandev&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pubuduishandev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 </div>
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://facebook.com/pubuduishandigital"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/pubuduishandigital"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
-  <a href="https://twitter.com/pubuduishandigi"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
-  <a href="https://instagram.com/pubuduishandigital"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
-  <a href="https://threads.com/pubuduishandigital"><img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white"/></a>
-  <a href="https://www.reddit.com/user/pubuduishandigital/"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"/></a>
-  <a href="https://www.pinterest.com/pubuduishandigital"><img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/pubuduishandev"><img src="https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://kaggle.com/pubuduishan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"/></a>
-  <a href="https://github.com/pubuduishandev"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@pubuduishandigital"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@pubuduishandigital"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white"/></a>
-  <a href="https://discord.gg/pubuduishandigital"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
-  <a href="https://m.me/pubuduishandigital"><img src="https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white"/></a>
-  <a href="https://wa.me/+94778830166"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/></a>
-  <a href="t.me/+94778830166"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
-  <a href="mailto:pubuduishan2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/pubuduishandigital"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/pubuduishandev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/pubuduishandev"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="mailto:pubuduishan2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <br>
+  <a href="https://facebook.com/pubuduishandigital"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/pubuduishandigital"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/pubuduishandigi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://wa.me/+94778830166"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</div>
 
 ---
 
-### 💡 Fun Facts
-
-🔍 **Research Enthusiast:** Always exploring cutting-edge technologies <br>
-🧠 **Lifelong Learner:** Passionate about continuous learning and knowledge sharing <br>
-🎯 **Problem Solver:** Love tackling complex challenges with innovative solutions <br>
-🌱 **Growth Mindset:** Constantly adapting to new trends in the tech industry <br>
-
----
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&textBg=false"/>
 </div>
