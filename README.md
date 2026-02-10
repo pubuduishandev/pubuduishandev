@@ -59,8 +59,6 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
 
 ---
-
-<div align="left">
   
 ### 📈 Profile Stats
 
@@ -141,16 +139,3 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&textBg=false"/>
 </div>
-
-
-this is existing README file of github account. So I want to modify with to modern look and feel
-
-in typo in top want to add 
-
-        'Software Engineer',
-        'Full Stack Developer',
-        'Mobile Application Developer',
-        'UI/UX Designer',
-        'Tech Enthusiast',
-        'Tech Explorer',
-        'Freelancer',
