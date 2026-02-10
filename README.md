@@ -15,11 +15,13 @@
 
 ### 🚀 About Me
 
-I'm Pubudu Ishan Wickrama Arachchi, a Software Engineer who recently completed a Bachelor’s degree at the Faculty of Technology, University of Colombo, with a Second Class (Lower Division) Honours (GPA: 3.09). With a strong foundation in both mobile and web development, I specialize in creating intuitive, user-centered applications that solve real-world problems.
+I'm Pubudu Ishan Wickrama Arachchi, a passionate Software Engineer and Founder of FlickBox Technologies who recently completed a Bachelor’s degree at the Faculty of Technology, University of Colombo, graduating with Second Class Honours (Lower Division) and a GPA of 3.09.
 
-My journey in software engineering has equipped me with expertise in modern technologies including Flutter, Vue.js, Laravel, Firebase, React, and various frameworks. I'm also passionate about UI/UX design and believe that great code should always be paired with an exceptional user experience.
+I have a strong foundation in both mobile and web application development, focusing on building intuitive, user-centered digital solutions that solve real-world problems. My technical expertise includes modern technologies such as Flutter, Vue.js, React, Laravel, Firebase, and various backend frameworks.
 
-When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or mentoring aspiring developers in the tech community.
+Beyond coding, I am deeply interested in UI/UX design, believing that great software is not only functional but also delivers an exceptional user experience.
+
+When I’m not developing software, I enjoy exploring emerging technologies, contributing to open-source projects, and mentoring aspiring developers within the tech community.
 
 ---
 
@@ -60,7 +62,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <div align="left">
 
-### sq;kdljnwehkflrj
+### 📈 Profile Stats
 
 ![](https://komarev.com/ghpvc/?username=pubuduishandev&color=blueviolet&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/pubuduishandev?style=flat-square&color=blueviolet)](https://github.com/pubuduishandev)
