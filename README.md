@@ -86,11 +86,16 @@ Outside of coding, you'll find me exploring emerging technologies, contributing 
 
 </div>
 
-**Highlights:**
-- ⭐ 1000+ Total Commits
-- 📚 15+ Public Repositories
-- 🚀 3+ Years of Active Development
-- 💾 50K+ Lines of Code
+**Highlights:** *(Auto-fetched from GitHub)*
+
+<div align="left">
+
+- ⭐ **Total Commits:** <img alt="Total Commits" src="https://img.shields.io/endpoint?url=https://github-stats-badge.vercel.app/api/total-commits/pubuduishandev" />
+- 📚 **Public Repositories:** <img alt="Public Repos" src="https://img.shields.io/endpoint?url=https://github-stats-badge.vercel.app/api/public-repos/pubuduishandev" />
+- 🚀 **Following:** <img alt="Following" src="https://img.shields.io/github/following/pubuduishandev?style=flat-square" />
+- 👥 **Followers:** <img alt="Followers" src="https://img.shields.io/github/followers/pubuduishandev?style=flat-square" />
+
+</div>
 
 ---
 
