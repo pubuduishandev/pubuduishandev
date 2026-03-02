@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Software+Engineer;Full+Stack+Developer;Mobile+Application+Developer;UI%2FUX+Designer;Tech+Enthusiast;Tech+Explorer;Freelancer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Software+Engineer;Full+Stack+Developer;Mobile+Application+DeveloperTech+Enthusiast;Tech+Explorer;Freelancer" />
 </div>
 
 ---
@@ -73,6 +73,12 @@ Let’s connect, collaborate, and build something valuable together. 🚀
 ![JWT](https://img.shields.io/badge/JWT-black?logo=json-web-tokens&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?logo=ant-design&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?logo=antigravity&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
 
 ---
 
@@ -124,24 +130,30 @@ Let’s connect, collaborate, and build something valuable together. 🚀
 
 ### 🌐 Connect with Me
 
+💼 Professional Profiles
 <p align="left">
-  <a href="https://facebook.com/pubuduishandigital"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/pubuduishandigital"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
-  <a href="https://twitter.com/pubuduishandigi"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
-  <a href="https://instagram.com/pubuduishandigital"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
-  <a href="https://threads.com/pubuduishandigital"><img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white"/></a>
-  <a href="https://www.reddit.com/user/pubuduishandigital/"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"/></a>
-  <a href="https://www.pinterest.com/pubuduishandigital"><img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/pubuduishandev"><img src="https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://kaggle.com/pubuduishan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"/></a>
-  <a href="https://github.com/pubuduishandev"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@pubuduishandigital"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@pubuduishandigital"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white"/></a>
-  <a href="https://discord.gg/pubuduishandigital"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
-  <a href="https://m.me/pubuduishandigital"><img src="https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white"/></a>
-  <a href="https://wa.me/+94778830166"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/></a>
-  <a href="t.me/+94778830166"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
-  <a href="mailto:pubuduishan2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/pubuduishandigital"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+<a href="https://stackoverflow.com/users/pubuduishandev"><img src="https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white"/></a>
+<a href="https://github.com/pubuduishandev"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/pubuduishandev"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/></a>
+<a href="https://hackerrank.com/pubuduishandev"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/></a>
+<a href="https://kaggle.com/pubuduishan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"/></a>
+<a href="https://medium.com/@pubuduishandigital"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
+<a href="https://dev.to/pubuduishandev"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white"/></a>
+<a href="https://app.daily.dev/pubuduishandev"><img src="https://img.shields.io/badge/daily.dev-000000?logo=daily-dot-dev&logoColor=white"/></a>
+<a href="https://google.dev/u/pubuduishandev"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?logo=google&logoColor=white"/></a>
+
+🌐 Social Connectivity
+<p align="left">
+<a href="https://facebook.com/pubuduishandigital"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
+<a href="https://bsky.app/profile/pubuduishandigital.bsky.social"><img src="https://img.shields.io/badge/BlueSky-0285FF?logo=bluesky&logoColor=white"/></a>
+<a href="https://twitter.com/pubuduishandigi"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
+<a href="https://instagram.com/pubuduishandigital"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+<a href="https://threads.com/pubuduishandigital"><img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white"/></a>
+<a href="https://www.youtube.com/@pubuduishandigital"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
+<a href="https://discord.gg/pubuduishandigital"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
+<a href="https://wa.me/+94778830166"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:pubuduishan2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
