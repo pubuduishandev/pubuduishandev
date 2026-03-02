@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Software+Engineer;Full+Stack+Developer;Mobile+Application+Developer;UI%2FUX+Designer;Tech+Enthusiast;Tech+Explorer;Freelancer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Software+Engineer;Full+Stack+Developer;Mobile+Application+Developer;UI%2FUX+Designer;Tech+Enthusiast;Tech+Explorer;Freelancer" />
 </div>
 
 ---
